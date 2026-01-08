@@ -11,9 +11,13 @@ Proyek ini dikembangkan sebagai bagian dari Ujian Akhir Semester (UAS) mata kuli
 Permasalahan utama UMKM yang melatarbelakangi pengembangan aplikasi ini:
 
 ❌ Pengelolaan transaksi dan stok masih manual
+
 ❌ Tidak adanya laporan keuangan yang terstruktur
+
 ❌ Sulit menghitung laba dan biaya operasional
+
 ❌ Pengelolaan karyawan dan penggajian belum sistematis
+
 ❌ Tidak tersedia dashboard untuk pengambilan keputusan berbasis data
 
 💡 Solusi: BisnisHub
@@ -21,9 +25,13 @@ Permasalahan utama UMKM yang melatarbelakangi pengembangan aplikasi ini:
 BisnisHub hadir sebagai solusi digital yang:
 
 ✅ Mengintegrasikan seluruh proses bisnis
+
 ✅ Meningkatkan efisiensi operasional UMKM
+
 ✅ Menyediakan data dan laporan bisnis secara real-time
+
 ✅ Membantu UMKM mengelola usaha secara profesional
+
 
 ✨ Fitur Utama
 🏠 Dashboard
@@ -139,10 +147,17 @@ lib/
 🎓 Konsep yang Diterapkan
 
 ✅ Modular Architecture
+
 ✅ State Management (Riverpod)
+
 ✅ Supabase Integration
+
 ✅ CRUD Operations
+
 ✅ Authentication & Authorization
+
 ✅ Business Logic Separation
+
 ✅ Asynchronous Programming
+
 ✅ Responsive & Themed UI
