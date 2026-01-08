@@ -100,6 +100,9 @@ Custom Theme
 Responsive Layout
 
 📂 Struktur Proyek
+## 📂 Struktur Proyek
+
+```bash
 lib/
 ├── app.dart
 ├── core/
@@ -130,7 +133,8 @@ lib/
 │   │   ├── reports_page.dart
 │   │   └── settings_page.dart
 │   └── pages.dart
-└── ...
+```
+
 
 🎓 Konsep yang Diterapkan
 
