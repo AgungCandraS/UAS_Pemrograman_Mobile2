@@ -1,66 +1,66 @@
-🧶 BisnisHub – Aplikasi Manajemen Usaha Terintegrasi untuk UMKM
+🧶 Bisnisku – Aplikasi Manajemen Usaha Terintegrasi untuk UMKM
 📖 Tentang Proyek
 
-BisnisHub adalah aplikasi mobile berbasis Flutter yang dirancang untuk membantu pelaku UMKM mengelola bisnis secara terstruktur dan terintegrasi.
-Aplikasi ini mencakup pengelolaan produk, pesanan, stok, keuangan, dan karyawan, sehingga seluruh aktivitas bisnis dapat dipantau dalam satu sistem terpadu.
+Bisnisku adalah aplikasi mobile berbasis Flutter yang dirancang untuk membantu pelaku UMKM dalam mengelola bisnis secara terstruktur, terintegrasi, dan profesional.
+Aplikasi ini menyediakan fitur pengelolaan produk, pesanan, stok, keuangan, serta karyawan, sehingga seluruh aktivitas bisnis dapat dipantau dalam satu sistem terpadu.
 
-Proyek ini dikembangkan sebagai bagian dari Ujian Akhir Semester (UAS) mata kuliah Pemrograman Mobile 2, dengan fokus pada penerapan Flutter, integrasi backend menggunakan Supabase, state management, serta desain antarmuka modern dan profesional.
+Proyek Bisnisku dikembangkan sebagai bagian dari Ujian Akhir Semester (UAS) mata kuliah Pemrograman Mobile 2, dengan fokus pada penerapan:
+
+Flutter & Dart
+
+Integrasi backend menggunakan Supabase
+
+State management modern
+
+Desain antarmuka yang modern dan user-friendly
 
 🎯 Latar Belakang & Motivasi
 
-Permasalahan utama UMKM yang melatarbelakangi pengembangan aplikasi ini:
+Permasalahan umum yang sering dihadapi oleh pelaku UMKM antara lain:
 
-❌ Pengelolaan transaksi dan stok masih manual
+❌ Pengelolaan transaksi dan stok masih dilakukan secara manual
+❌ Tidak tersedia laporan keuangan yang rapi dan terstruktur
+❌ Sulit menghitung laba, rugi, dan biaya operasional
+❌ Manajemen karyawan dan penggajian belum sistematis
+❌ Tidak adanya dashboard untuk mendukung pengambilan keputusan berbasis data
 
-❌ Tidak adanya laporan keuangan yang terstruktur
+💡 Solusi: Bisnisku
 
-❌ Sulit menghitung laba dan biaya operasional
+Bisnisku hadir sebagai solusi digital yang:
 
-❌ Pengelolaan karyawan dan penggajian belum sistematis
-
-❌ Tidak tersedia dashboard untuk pengambilan keputusan berbasis data
-
-💡 Solusi: BisnisHub
-
-BisnisHub hadir sebagai solusi digital yang:
-
-✅ Mengintegrasikan seluruh proses bisnis
-
-✅ Meningkatkan efisiensi operasional UMKM
-
-✅ Menyediakan data dan laporan bisnis secara real-time
-
-✅ Membantu UMKM mengelola usaha secara profesional
-
+✅ Mengintegrasikan seluruh proses bisnis UMKM dalam satu aplikasi
+✅ Meningkatkan efisiensi dan akurasi operasional
+✅ Menyediakan data bisnis dan laporan secara real-time
+✅ Membantu UMKM mengelola usaha secara lebih profesional dan modern
 
 ✨ Fitur Utama
 🏠 Dashboard
 
-Ringkasan pendapatan
+Ringkasan pendapatan bisnis
 
-Statistik pesanan dan performa bisnis
+Statistik pesanan dan performa usaha
 
-Navigasi cepat ke seluruh modul
+Navigasi cepat ke seluruh modul utama
 
 📦 Manajemen Inventori
 
-CRUD produk
+CRUD data produk
 
-Monitoring stok
+Monitoring stok barang
 
 Peringatan stok minimum
 
 🛒 Manajemen Pesanan
 
-Input pesanan
+Input dan pengelolaan pesanan
 
 Tracking status pesanan
 
-Perhitungan omzet & laba otomatis
+Perhitungan omzet dan laba otomatis
 
 💰 Manajemen Keuangan
 
-Pencatatan pemasukan & pengeluaran
+Pencatatan pemasukan dan pengeluaran
 
 Perhitungan laba rugi
 
@@ -70,7 +70,7 @@ Ringkasan saldo bisnis
 
 Data karyawan
 
-Modul HR & perhitungan gaji
+Modul HR dan perhitungan gaji
 
 Riwayat penggajian
 
@@ -78,7 +78,7 @@ Riwayat penggajian
 
 Ringkasan performa bisnis
 
-Grafik dan insight pengambilan keputusan
+Grafik dan insight untuk pengambilan keputusan
 
 🛠 Tech Stack
 Frontend
@@ -99,7 +99,7 @@ Riverpod
 
 go_router
 
-UI/UX
+UI / UX
 
 Material Design 3
 
@@ -112,35 +112,67 @@ Responsive Layout
 
 ```bash
 lib/
-├── app.dart
-├── core/
-│   ├── auth/
-│   │   └── auth_providers.dart
-│   ├── router/
-│   │   ├── app_router.dart
-│   │   └── app_routes.dart
-│   ├── supabase/
-│   │   ├── supabase_bootstrap.dart
-│   │   └── supabase_config.dart
-│   ├── theme/
-│   │   └── app_theme.dart
-│   └── utils/
-│       └── formatters.dart
-├── features/
-│   ├── orders/
-│   │   ├── data/order_repository.dart
-│   │   ├── models/order_model.dart
-│   │   └── state/order_providers.dart
-│   ├── pages/
-│   │   ├── dashboard_page.dart
-│   │   ├── finance_page.dart
-│   │   ├── hr_page.dart
-│   │   ├── inventory_page.dart
-│   │   ├── orders_page.dart
-│   │   ├── purchasing_page.dart
-│   │   ├── reports_page.dart
-│   │   └── settings_page.dart
-│   └── pages.dart
+└── features/
+    ├── auth/
+    │   ├── application/
+    │   ├── data/
+    │   ├── domain/
+    │   └── presentation/
+    │       └── pages/
+    │           ├── forgot_password_page.dart
+    │           ├── login_page.dart
+    │           ├── register_page.dart
+    │           └── splash_page.dart
+    │
+    ├── employees/
+    │   ├── application/
+    │   ├── data/
+    │   ├── domain/
+    │   └── presentation/
+    │       └── pages/
+    │
+    ├── finance/
+    │   ├── application/
+    │   ├── data/
+    │   ├── domain/
+    │   └── presentation/
+    │       └── pages/
+    │
+    ├── home/
+    │   ├── application/
+    │   ├── data/
+    │   ├── domain/
+    │   └── presentation/
+    │       └── pages/
+    │
+    ├── integration/
+    │   ├── application/
+    │   ├── data/
+    │   ├── domain/
+    │   └── presentation/
+    │       └── pages/
+    │
+    ├── inventory/
+    │   ├── application/
+    │   ├── data/
+    │   ├── domain/
+    │   └── presentation/
+    │       └── pages/
+    │
+    ├── payroll/
+    │   ├── application/
+    │   ├── data/
+    │   ├── domain/
+    │   └── presentation/
+    │       └── pages/
+    │
+    └── production/
+        ├── application/
+        ├── data/
+        ├── domain/
+        │   └── product_model.dart
+        └── presentation/
+            └── pages/
 ```
 
 
