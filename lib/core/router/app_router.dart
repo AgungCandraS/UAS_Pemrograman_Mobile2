@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
 
-import 'package:bisnisku/features/analytics/presentation/pages/analytics_page.dart';
 import 'package:bisnisku/features/auth/presentation/pages/splash_page.dart';
 import 'package:bisnisku/features/auth/presentation/pages/login_page.dart';
 import 'package:bisnisku/features/auth/presentation/pages/register_page.dart';
@@ -154,10 +153,6 @@ final appRouter = GoRouter(
     GoRoute(
       path: '/integration',
       builder: (context, state) => const IntegrationPage(),
-    ),
-    GoRoute(
-      path: '/analytics',
-      builder: (context, state) => const AnalyticsPage(),
     ),
 
     // Reports Routes
