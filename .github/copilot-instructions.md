@@ -1,0 +1,9 @@
+- [x] Verify that the copilot-instructions.md file in the .github directory is created.
+- [x] Clarify Project Requirements (Flutter mobile Bisnisku: dashboard, inventori, keuangan, HR, pesanan, AI, DB)
+- [x] Scaffold the Project (flutter create .)
+- [x] Customize the Project (routing, UI, mock data, README)
+- [x] Install Required Extensions (none diperlukan)
+- [x] Compile the Project (flutter pub get, flutter analyze)
+- [x] Create and Run Task (tidak perlu saat ini)
+- [ ] Launch the Project (menunggu konfirmasi user)
+- [x] Ensure Documentation is Complete (README diperbarui, komentar dibersihkan)
