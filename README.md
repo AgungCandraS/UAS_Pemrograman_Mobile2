@@ -117,10 +117,10 @@ lib/
  <img width="289" height="548" alt="image" src="https://github.com/user-attachments/assets/591b4dd0-94fd-489b-b400-2f1b3d23f70b" />
 
 - Halaman Register:
-   <img width="286" height="571" alt="image" src="https://github.com/user-attachments/assets/8d65f578-5665-47fc-af69-6fcd8c89940d" />
+ <img width="286" height="571" alt="image" src="https://github.com/user-attachments/assets/8d65f578-5665-47fc-af69-6fcd8c89940d" />
 
 - Halaman Lupa Passowrd:
--  <img width="278" height="572" alt="image" src="https://github.com/user-attachments/assets/4ce2ab9a-2468-4c04-8c20-78e5dec7e8c8" />
+ <img width="278" height="572" alt="image" src="https://github.com/user-attachments/assets/4ce2ab9a-2468-4c04-8c20-78e5dec7e8c8" />
 
 ---
 
