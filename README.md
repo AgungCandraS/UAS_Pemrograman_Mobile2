@@ -131,7 +131,7 @@ lib/
 
 📸 **Screenshot:**
 - Dashboard Utama:
-   <img width="269" height="550" alt="image" src="https://github.com/user-attachments/assets/1ab03a88-7651-43bf-a541-90e4178c5d39" />
+ <img width="269" height="550" alt="image" src="https://github.com/user-attachments/assets/1ab03a88-7651-43bf-a541-90e4178c5d39" />
 
 
 ---
@@ -144,10 +144,10 @@ lib/
 
 📸 **Screenshot:**
 - Daftar Produk:
-   <img width="284" height="583" alt="image" src="https://github.com/user-attachments/assets/7bd53a88-2c2c-477d-a9e2-bfca36bb9033" />
+ <img width="284" height="583" alt="image" src="https://github.com/user-attachments/assets/7bd53a88-2c2c-477d-a9e2-bfca36bb9033" />
 
 - Tambah / Edit Produk:
-  <img width="296" height="579" alt="image" src="https://github.com/user-attachments/assets/8b7d1954-1b87-4e4d-b2d6-3a482209244f" />
+ <img width="296" height="579" alt="image" src="https://github.com/user-attachments/assets/8b7d1954-1b87-4e4d-b2d6-3a482209244f" />
 
 
 ---
@@ -158,10 +158,10 @@ lib/
 
 📸 **Screenshot:**
 - catat Penjualan:
-  <img width="281" height="576" alt="image" src="https://github.com/user-attachments/assets/a4fb4675-6eb3-4e6b-9338-6c8c0e1c2476" />
+<img width="281" height="576" alt="image" src="https://github.com/user-attachments/assets/a4fb4675-6eb3-4e6b-9338-6c8c0e1c2476" />
 
 - Detail Penjualan:
-  <img width="320" height="577" alt="image" src="https://github.com/user-attachments/assets/92a01870-007f-448e-b5a2-c6bda88cd714" />
+<img width="320" height="577" alt="image" src="https://github.com/user-attachments/assets/92a01870-007f-448e-b5a2-c6bda88cd714" />
 
 
 ---
@@ -173,7 +173,7 @@ lib/
 
 📸 **Screenshot:**
 - Dashboard Keuangan:
-   <img width="293" height="573" alt="image" src="https://github.com/user-attachments/assets/3d2f521b-2b0d-44a2-94e2-b9ad1c4aafb9" />
+  <img width="293" height="573" alt="image" src="https://github.com/user-attachments/assets/3d2f521b-2b0d-44a2-94e2-b9ad1c4aafb9" />
 
 
 ---
@@ -185,7 +185,7 @@ lib/
 
 📸 **Screenshot:**
 - Ringkasan Penggajian:
-   <img width="282" height="577" alt="image" src="https://github.com/user-attachments/assets/d57e154f-aca9-4274-a41e-98692fa3efe7" />
+  <img width="282" height="577" alt="image" src="https://github.com/user-attachments/assets/d57e154f-aca9-4274-a41e-98692fa3efe7" />
 
 
 ---
@@ -197,10 +197,10 @@ lib/
 
 📸 **Screenshot:**
 - Tambah Karyawan:
-   <img width="285" height="556" alt="image" src="https://github.com/user-attachments/assets/4c49cf0a-971f-4d62-9422-33aa1a166455" />
+ <img width="285" height="556" alt="image" src="https://github.com/user-attachments/assets/4c49cf0a-971f-4d62-9422-33aa1a166455" />
 
 - Daftar Karyawan:
-  <img width="300" height="558" alt="image" src="https://github.com/user-attachments/assets/8ee65cb7-8855-407d-a082-90647472f347" />
+<img width="300" height="558" alt="image" src="https://github.com/user-attachments/assets/8ee65cb7-8855-407d-a082-90647472f347" />
 
 ---
 
@@ -211,10 +211,10 @@ lib/
 
 📸 **Screenshot:**
 - Tambah Produksi:
-   <img width="289" height="563" alt="image" src="https://github.com/user-attachments/assets/b33e97e5-58a8-4dbc-8d1f-f63d0350ba7c" />
+ <img width="289" height="563" alt="image" src="https://github.com/user-attachments/assets/b33e97e5-58a8-4dbc-8d1f-f63d0350ba7c" />
 
 - Monitoring Produksi:
-   <img width="298" height="572" alt="image" src="https://github.com/user-attachments/assets/d70a9320-727e-4427-aa33-32bd95372a46" />
+ <img width="298" height="572" alt="image" src="https://github.com/user-attachments/assets/d70a9320-727e-4427-aa33-32bd95372a46" />
 
 
 ---
@@ -229,16 +229,16 @@ Modul laporan digunakan untuk melihat rekap data usaha secara menyeluruh, melipu
 
 📸 **Screenshot:**
 - Halaman Laporan Keuangan:
-   <img width="301" height="575" alt="image" src="https://github.com/user-attachments/assets/7c8be065-a3e9-4660-a1b1-60fecf6b8111" />
+  <img width="301" height="575" alt="image" src="https://github.com/user-attachments/assets/7c8be065-a3e9-4660-a1b1-60fecf6b8111" />
 
 - Halaman Laporan Penjualan:
-   <img width="276" height="589" alt="image" src="https://github.com/user-attachments/assets/4441e6df-a335-4aaa-8dfd-4d128e327b28" />
+ <img width="276" height="589" alt="image" src="https://github.com/user-attachments/assets/4441e6df-a335-4aaa-8dfd-4d128e327b28" />
 
 - Halaman Laporan Penggajian:
-   <img width="308" height="567" alt="image" src="https://github.com/user-attachments/assets/2087b029-26fc-4846-8b62-efa317959c01" />
+  <img width="308" height="567" alt="image" src="https://github.com/user-attachments/assets/2087b029-26fc-4846-8b62-efa317959c01" />
 
 - Halaman Laporan Produksi:
-   <img width="266" height="556" alt="image" src="https://github.com/user-attachments/assets/e38c4feb-ed1c-41e5-9310-f8a4da24f44d" />
+ <img width="266" height="556" alt="image" src="https://github.com/user-attachments/assets/e38c4feb-ed1c-41e5-9310-f8a4da24f44d" />
 
 
 ---
@@ -250,11 +250,11 @@ Modul laporan digunakan untuk melihat rekap data usaha secara menyeluruh, melipu
 
 📸 **Screenshot:**
 - Integrasi Backend / API:
-   <img width="277" height="571" alt="image" src="https://github.com/user-attachments/assets/d5d67009-db62-4a6d-9e11-720d2a9467f7" />
+  <img width="277" height="571" alt="image" src="https://github.com/user-attachments/assets/d5d67009-db62-4a6d-9e11-720d2a9467f7" />
 
-  <img width="281" height="569" alt="image" src="https://github.com/user-attachments/assets/c4ad89f6-3079-4759-826a-7f5ff4f6ceae" />
+ <img width="281" height="569" alt="image" src="https://github.com/user-attachments/assets/c4ad89f6-3079-4759-826a-7f5ff4f6ceae" />
 
-  <img width="288" height="558" alt="image" src="https://github.com/user-attachments/assets/e61f8f4a-bc91-4437-98c2-cddd373caf6e" />
+<img width="288" height="558" alt="image" src="https://github.com/user-attachments/assets/e61f8f4a-bc91-4437-98c2-cddd373caf6e" />
 
 ---
 
@@ -265,22 +265,22 @@ Modul laporan digunakan untuk melihat rekap data usaha secara menyeluruh, melipu
 
 📸 **Screenshot:**
 - Halaman Profil:
-   <img width="320" height="580" alt="image" src="https://github.com/user-attachments/assets/07b7c4af-fb22-4842-a315-051c8ee89aed" />
+ <img width="320" height="580" alt="image" src="https://github.com/user-attachments/assets/07b7c4af-fb22-4842-a315-051c8ee89aed" />
 
 -Halaman Keamanan Akun:
-   <img width="294" height="559" alt="image" src="https://github.com/user-attachments/assets/2a66f9e1-a04f-4a1f-a59d-5bd2b42b68e2" />
+ <img width="294" height="559" alt="image" src="https://github.com/user-attachments/assets/2a66f9e1-a04f-4a1f-a59d-5bd2b42b68e2" />
 
 - Informasi Perusahaan:
-   <img width="315" height="547" alt="image" src="https://github.com/user-attachments/assets/e91bf371-e244-46b6-b0a5-3059badce745" />
+  <img width="315" height="547" alt="image" src="https://github.com/user-attachments/assets/e91bf371-e244-46b6-b0a5-3059badce745" />
 
 - Preferensi:
-   <img width="309" height="577" alt="image" src="https://github.com/user-attachments/assets/3376a2b3-592b-41b3-880a-8295ce0e863b" />
+ <img width="309" height="577" alt="image" src="https://github.com/user-attachments/assets/3376a2b3-592b-41b3-880a-8295ce0e863b" />
 
 -Pusat Bantuan:
-   <img width="297" height="585" alt="image" src="https://github.com/user-attachments/assets/ad752950-6bf6-43ed-90a9-8ef678c90ae0" />
+  <img width="297" height="585" alt="image" src="https://github.com/user-attachments/assets/ad752950-6bf6-43ed-90a9-8ef678c90ae0" />
 
 - Tentang Aplikasi:
-   <img width="298" height="570" alt="image" src="https://github.com/user-attachments/assets/db958446-d963-4721-a94f-4a4e1cd5bdf8" />
+ <img width="298" height="570" alt="image" src="https://github.com/user-attachments/assets/db958446-d963-4721-a94f-4a4e1cd5bdf8" />
 
 ---
 
